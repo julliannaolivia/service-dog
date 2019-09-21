@@ -30,7 +30,9 @@ added to the button in the index html file as well.*/
 }
 
 
-
+.generic-page-research {
+  margin: 20px;
+}
 /*********************************************
  Write your css customizations below
  *********************************************/
