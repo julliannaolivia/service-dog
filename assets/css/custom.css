@@ -6,8 +6,8 @@
 /* If you want to add a background image to the home page banner instead of using a solid color.
 Just un comment the #banner rule below. */
 /* #banner {
-  /* background-image: url(../../images/pic01.jpg); */ */
-  #banner
+  /* background-image: url(../../images/pic01.jpg); */
+  /* #banner
   background-image: url(images/Image 9-30-19 at 4.47 PM.JPG);
   background-size: cover;
   color: rgba(255, 255, 255, 0.75);
@@ -16,6 +16,15 @@ Just un comment the #banner rule below. */
   cursor: default;
   padding: 10em 4em 9em 4em;
 } */
+#banner {
+background-image: url(../../images/Image 9-30-19 at 4.47 PM.JPG);
+    background-size: cover;
+    color: rgba(255, 255, 255, 0.75);
+    text-shadow: 1px 1px 15px #333;
+    text-align: center;
+    cursor: default;
+    padding: 10em 4em 9em 4em;
+}
 
 
 
@@ -26,6 +35,8 @@ added to the button in the index html file as well.*/
   background-color: rgba(188, 46, 26, 1);
   box-shadow: none;
 }
+
+
 
 #banner .button.redbtn:hover {
   background-color: rgba(188, 46, 26, .8);
