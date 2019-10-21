@@ -1730,19 +1730,20 @@ take precedence the ones in this file. */
 	}
 
 	input, select, textarea {
-		color: #555;
+		color: #366494;
 	}
 
 	a {
-		color: #1abc9c;
+		color: #366494
+		;
 	}
 
 	strong, b {
-		color: #555;
+		color: #366494;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #555;
+		color: #366494;
 	}
 
 	blockquote {
